@@ -1,5 +1,5 @@
 import { GlobeAltIcon } from '@heroicons/react/24/outline';
-import { lusitanaFont } from './font';
+import { lusitanaFont } from './fonts';
 
 export default function AcmeLogo() {
 	return (
