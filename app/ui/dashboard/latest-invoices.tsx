@@ -1,6 +1,6 @@
 import { LatestInvoice } from '@/app/lib/definitions';
 import { ArrowPathIcon } from '@heroicons/react/24/outline';
-import { lusitanaFont } from '../fonts';
+import { lusitanaFont } from '@/app/ui/fonts';
 export default async function LatestInvoices({
 	latestInvoices,
 }: {
